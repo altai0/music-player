@@ -80,6 +80,7 @@ function App() {
         src={currentSong.audio}
         onEnded={songEndHandler}
       ></audio>
+     <a href="https://altailabs.tech" target="_blank">altailabs.tech</a>
     </div>
   );
 }
